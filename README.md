@@ -52,6 +52,7 @@ As a **full-time freelancer**, I’m dedicated to delivering high-quality soluti
   <a href="https://maulikchaklasiya.in" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   <a href="mailto:maulikchaklasiya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/maulikchaklasiya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://calendly.com/maulikchaklasiya" target="_blank"><img src="https://img.shields.io/badge/Schedule%20a%20Call-006BFF?style=for-the-badge&logo=google-calendar&logoColor=white"/></a>
 </p>
 
 
