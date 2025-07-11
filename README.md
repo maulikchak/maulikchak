@@ -29,23 +29,22 @@ As a **full-time freelancer**, I’m dedicated to delivering high-quality soluti
 
 ## 📈 GitHub Stats
 
-### 🔥 GitHub Streak
 
+### 🔝 Top Languages
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maulikchak&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulikchak&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ### 💻 GitHub Profile Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maulikchak&show_icons=true&theme=tokyonight" height="160"/>
 </p>
 
-### 🔝 Top Languages
-
+### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulikchak&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maulikchak&theme=tokyonight" alt="GitHub Streak Stats"/>
 </p>
+
 
 ## 📫 Connect with Me
 
