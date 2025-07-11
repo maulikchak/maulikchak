@@ -19,6 +19,7 @@ As a **full-time freelancer**, I’m dedicated to delivering high-quality soluti
 - 💡 Love building **pixel-perfect UIs** and optimizing mobile app performance  
 - 🎯 Always upskilling and contributing to exciting freelance & open-source projects  
 - 📫 Reach me at: [maulikchaklasiya@gmail.com](mailto:maulikchaklasiya@gmail.com)
+- 📅 Book a call: [calendly.com/maulikchaklasiya](https://calendly.com/maulikchaklasiya)
 
 ## 💻 Technologies & Tools
 
